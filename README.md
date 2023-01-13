@@ -1,5 +1,5 @@
 # Semantic_segmentation_for_images
-> MobileNetV2, a convolutional neural network architecture is implemented in the model
+> U-Net, a convolutional neural network architecture is implemented in the model which is built upon fully convolutional networks.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -25,13 +25,12 @@ Project is: _complete_
 ![Graph_accuracy](https://github.com/Nurnazhifa/Semantic_segmentation_for_images/blob/main/result.png)
 
 ## Architecture
-![Architecture of the model]()
+![Architecture of the model](https://github.com/Nurnazhifa/Semantic_segmentation_for_images/blob/main/model.png)
 
 ## Room for Improvement
 
 Room for improvement:
-- Use MobileNetV3 as transfer learning method in the model architecture instead of using MobileNetV2
-
+- Increase number of epochs in model training
 
 ## Acknowledgements
 - This project was based on [this dataset](https://www.kaggle.com/competitions/data-science-bowl-2018/overview).
