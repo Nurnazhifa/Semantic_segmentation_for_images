@@ -22,7 +22,7 @@ Project is created with
 Project is: _complete_ 
 
 ## Results
-![Graph_accuracy]()
+![Graph_accuracy](https://github.com/Nurnazhifa/Semantic_segmentation_for_images/blob/main/result.png)
 
 ## Architecture
 ![Architecture of the model]()
